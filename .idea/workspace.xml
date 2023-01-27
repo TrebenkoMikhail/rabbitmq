@@ -4,27 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e6f628-cf79-440a-9276-a30d0a0272e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/consumer/DoubleDirectReceiverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/consumer/ExchangeReceiverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/consumer/SimpleReceiverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/consumer/TaskReceiverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/DoubleDirectSenderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/ExchangeSenderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/MyMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/RoutingProducerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/SerializationSenderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/SimpleSenderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trebenko/console/producer/TaskProducerApp.java" afterDir="false" />
+    <list default="true" id="f2e6f628-cf79-440a-9276-a30d0a0272e5" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/BlogReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/ConsumerContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/DoubleDirectReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/MessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/ProgrammingLangReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/ReceiverApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8rabbitmq/src/main/java/org/example/itReceiverApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +54,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,6 +72,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674482178305</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1674580315089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674580315089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
